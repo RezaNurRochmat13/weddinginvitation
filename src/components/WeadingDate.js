@@ -9,12 +9,10 @@ const WeadingDate = () => {
             <div className="display-table center-text">
                 <div className="display-table-cell">
                     <div className="slider-content">
-
                         <img className="sindur-dan" src={sindurdan} alt="Sindur Dan"/>
-                        <h5 className="date">11th February 2021</h5>
+                        <h5 className="date">12th February 2021</h5>
                         <h3 className="pre-title">Save The Date</h3>
                         <h1 className="title">Reza <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Meita</h1>
-
                     </div>
 			</div>
 		</div>
