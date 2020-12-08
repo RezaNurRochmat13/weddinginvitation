@@ -1,6 +1,6 @@
 import React from 'react';
-import groom from '../images/manoj1.png';
-import bride from '../images/mana2.jpg';
+import reja from '../images/reja.jpg';
+import meita from '../images/meita.jpg';
 import brideback from '../images/brideback.jpg';
 const Invitation = () => {
     return (
@@ -18,13 +18,13 @@ const Invitation = () => {
                         <div className="couple-wrap">
                             <div className="couple-half">
                                 <div className="groom">
-                                    <img src={groom} style={{backgroundImage: `url(${brideback})`, backgroundSize: 'cover',
+                                    <img src={reja} style={{backgroundImage: `url(${brideback})`, backgroundSize: 'cover',
     backgroundRepeat: "no-repeat"}}  alt="groom" className="img-responsive" />
                                 </div>
                                 <div className="desc-groom">
-                                    <h3>Manoj Mukherjee</h3>
-                                    <h5>S/O Subal Mukherjee</h5>
-                                    <h5>Mamata Mukherjee</h5>
+                                    <h3>Reza Nur Rochmat</h3>
+                                    <h5>Suharjo</h5>
+                                    <h5>Agustin Ernawati</h5>
                                 </div>
                             </div>
                             <p className="center-text heartp">
@@ -34,12 +34,12 @@ const Invitation = () => {
                             </p>
                             <div className="couple-half">
                                 <div className="bride">
-                                    <img src={bride} alt="bride" className="img-responsive" />
+                                    <img src={meita} alt="bride" className="img-responsive" />
                                 </div>
                                 <div className="desc-bride">
-                                    <h3>Iva Chatterjee</h3>
-                                    <h5>D/O Prabir Chatterjee</h5>
-                                    <h5>Iti Chatterjee</h5>
+                                    <h3>Meita Wulan Kusuma Wardhani</h3>
+                                    <h5>Tri Budiharjo</h5>
+                                    <h5>SarwoEndah</h5>
                                 </div>
                             </div>
                         </div>
