@@ -1,6 +1,6 @@
 import React from 'react';
-import reja from '../images/reja.jpg';
-import meita from '../images/meita.jpg';
+import reja from '../images/reja_profile.JPG';
+import meita from '../images/meita_profile.JPG';
 import brideback from '../images/brideback.jpg';
 const Invitation = () => {
     return (
@@ -39,7 +39,7 @@ const Invitation = () => {
                                 <div className="desc-bride">
                                     <h3>Meita Wulan Kusuma Wardhani</h3>
                                     <h5>Tri Budiharjo</h5>
-                                    <h5>SarwoEndah</h5>
+                                    <h5>Sarwo Endah</h5>
                                 </div>
                             </div>
                         </div>
