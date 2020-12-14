@@ -1,8 +1,9 @@
 import React from 'react';
 import '../OurStory.css';
-import img3 from '../images/met5.jpg'
-import img2 from '../images/met3.jpg'
-import img1 from '../images/met4.jpg'
+import img1 from '../images/first_meet.jpg'
+import img2 from '../images/first_date.jpg'
+import img3 from '../images/lamaran.jpg'
+
 const WeadingDetails = () => {
     return (
         <section className="section w-details-area center-text">
@@ -23,8 +24,8 @@ const WeadingDetails = () => {
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img1})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
-                                        <h3 className="timeline-title">First We Met</h3>
-                                        <span className="date">December 25, 2018</span>
+                                        <h3 className="timeline-title">First We Meet</h3>
+                                        <span className="date">August 24, 2019</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>After four hours of long drive we met in her home with full of family members, fall in love with each other.</p>
@@ -35,8 +36,8 @@ const WeadingDetails = () => {
                                 <div className="timeline-badge" style={{backgroundImage: `url(${img2})`}}></div>
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
-                                        <h3 className="timeline-title">First Date</h3>
-                                        <span className="date"><i className="icon icon-date"></i>December 30, 2018</span>
+                                        <h3 className="timeline-title">First Dating</h3>
+                                        <span className="date"><i className="icon icon-date"></i>August 31, 2019</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>Came to her home with excitement to meet her again. Our first date. She kisses my hand and I gave her red roses and chocolate.</p>
@@ -48,7 +49,7 @@ const WeadingDetails = () => {
                                 <div className="timeline-panel">
                                     <div className="timeline-heading">
                                         <h3 className="timeline-title">In A Relationship</h3>
-                                        <span className="date">May 16, 2019</span>
+                                        <span className="date">Jul 20, 2019</span>
                                     </div>
                                     <div className="timeline-body">
                                         <p>It's our engagement time. We started new relationship.</p>
