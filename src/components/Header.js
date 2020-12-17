@@ -6,7 +6,7 @@ const Header = () => {
 
 				<div className="container">
 
-					<a href="/"><img src="https://www.flaticon.com/svg/static/icons/svg/1320/1320925.svg" alt="Logo" /></a>
+					<a className="logo" href="/"><img src="https://www.flaticon.com/svg/static/icons/svg/1320/1320925.svg" alt="Logo" /></a>
 
 				</div>
 			</header>
