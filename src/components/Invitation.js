@@ -38,7 +38,7 @@ const Invitation = () => {
                                 </div>
                                 <div className="desc-bride">
                                     <h3>Meita Wulan Kusuma Wardhani</h3>
-                                    <h5>Tri Budiharjo</h5>
+                                    <h5>Alm. Tri Budiharjo</h5>
                                     <h5>Sarwo Endah</h5>
                                 </div>
                             </div>

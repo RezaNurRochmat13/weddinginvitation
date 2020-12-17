@@ -17,7 +17,7 @@ const Weadingloaction = () => {
 						<div className="w-detail right">
 							<i className="icon icon-ciurclke"></i>
 							<h4 className="title">WEDDING CEREMONY</h4>
-                            <p>Wednesday, February 11th, 2021</p>
+                            <p>Saturday, January 30th, 2021</p>
 							<p>Nuren</p>
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Nuren, Tegalrejo Magelang</p>
@@ -35,7 +35,7 @@ const Weadingloaction = () => {
 						<div className="w-detail left">
 							<i className="icon icon-cake"></i>
 							<h4 className="title">NGUNDUH MANTU</h4>
-							<p>Tuesday, February 16th, 2021</p>
+							<p>Sunday, January 31th, 2021</p>
 							<p>Pakem</p>
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Paraksari RT 010 RW -, Pakembinangun Pakem Sleman</p>
